@@ -41,3 +41,5 @@ formSubmitSearch.addEventListener("submit", (e) => {
   CheckWether(searchBox.value);
   searchBox.value = "";
 });
+
+// some changes comment added
